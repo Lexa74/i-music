@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  output: 'export',
-  basePath: '/i-music',
+  // output: 'export',
+  // basePath: '/i-music',
   async redirects() {
     return [
       {
